@@ -1,0 +1,12 @@
+{
+    "name": "tomkry/recruit-ciphers",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tomkry\\RecruitCiphers\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
